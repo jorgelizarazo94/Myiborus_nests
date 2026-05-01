@@ -1,29 +1,19 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Virtual environments
 .venv/
-venv/
-env/
-
-# IDE settings
-.idea/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Jupyter notebooks checkpoints
 .ipynb_checkpoints/
+__pycache__/
 
-# Build / distribution
-build/
-dist/
-*.egg-info/
+data/
+Figures/
+models/
+outputs/
 
-# Data / temporary
-*.log
-*.csv
-*.tmp
+*.rds
+*.RData
+*.pth
+*.pt
+*.onnx
+*.pkl
+*.joblib
+*.zip
+*.7z
+*.rar
