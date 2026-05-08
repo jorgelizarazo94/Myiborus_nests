@@ -1,0 +1,11 @@
+direction,ID_del_Nido,random_intercept,Especie,Estacion,mean_age,mean_mass,n_obs
+Cooling less than expected,DA01_LP17,-0.24670460790947732,Myioborus_miniatus,Danubio,4.214285714285714,7.429285714285714,14
+Cooling less than expected,TA17_SLS15,-0.19680679459390632,Myioborus_miniatus,Tatama,4.333333333333333,6.22,6
+Cooling less than expected,TA50_ROAD15,-0.16788144135794716,Myioborus_miniatus,Tatama,6.5,6.567500000000001,4
+Cooling less than expected,DA02_LP17,-0.16369407545384834,Myioborus_miniatus,Danubio,5.166666666666667,8.623333333333333,6
+Cooling less than expected,TA41_MASM14,-0.15457938376590832,Myioborus_miniatus,Tatama,4.0,1.375,2
+Cooling more than expected,W22_CJS10,0.15155883270914336,Myioborus_melanocephalus,Wayquecha,5.833333333333333,5.923826539666667,6
+Cooling more than expected,CH14_AMM15,0.19989007025235267,Myioborus_miniatus,Chicoral,6.714285714285714,6.78,7
+Cooling more than expected,CH11_AMM15,0.28058265108208874,Myioborus_miniatus,Chicoral,5.25,4.46,8
+Cooling more than expected,CH13_WTF15,0.32071151165066625,Myioborus_miniatus,Chicoral,6.125,7.321875,16
+Cooling more than expected,SP4_EJW11,0.32296288736934947,Myioborus_miniatus,San_Pedro,2.4285714285714284,10.321428571428571,7
